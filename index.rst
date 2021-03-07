@@ -20,7 +20,6 @@
    2-aosandahv/lab_deploy_workloads/lab_deploy_workloads
    2-aosandahv/lab_manage_workloads/lab_manage_workloads
    2-aosandahv/lab_data_protection/lab_data_protection
-   2-aosandahv/image_create/image_create
    2-aosandahv/lab_image_configuration/lab_image_configuration
 
 .. toctree::
@@ -36,6 +35,15 @@
    4-privatecloud/flow_secure_fiesta/flow_secure_fiesta
    4-privatecloud/beam_cost_governance/beam_cost_governance
    9-backup/veeam/veeam
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Objects Labs
+   :hidden:
+   
+   8-objects/objects_buckets_users_access_control/objects_buckets_users_access_control
+   8-objects/objects_versioning_access_control/objects_versioning_access_control
+   8-objects/objects_cli_scripts/objects_cli_scripts
    
 .. toctree::
   :maxdepth: 2
